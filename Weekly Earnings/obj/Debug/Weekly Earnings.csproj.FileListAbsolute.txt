@@ -1,0 +1,6 @@
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\Weekly Earnings\Weekly Earnings\bin\Debug\Weekly Earnings.exe.config
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\Weekly Earnings\Weekly Earnings\bin\Debug\Weekly Earnings.exe
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\Weekly Earnings\Weekly Earnings\bin\Debug\Weekly Earnings.pdb
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\Weekly Earnings\Weekly Earnings\obj\Debug\Weekly Earnings.csprojResolveAssemblyReference.cache
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\Weekly Earnings\Weekly Earnings\obj\Debug\Weekly Earnings.exe
+c:\users\mpawlaczyk\documents\visual studio 2015\Projects\Weekly Earnings\Weekly Earnings\obj\Debug\Weekly Earnings.pdb
